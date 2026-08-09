@@ -11,5 +11,9 @@
   "license": "ISC",
   "devDependencies": {
     "lite-server": "^2.6.1"
+  },
+  "overrides": {
+    "browser-sync": "^3.0.4",
+    "immutable": "^4.3.9"
   }
 }
